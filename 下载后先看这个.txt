@@ -1,0 +1,5 @@
+Can_26_ServerSocket 是PC端的Java代码 直接在Android Studio中导入就可以了~如果用的是eclipse的话，把里面的MyClass.java 和 ClientManager.java两个类拿出来放入eclipse中也可以~
+
+Can_26_Socket 是Android项目 当然可以直接在Android Studio中直接打开啦~
+
+如果有对我的建议和指导欢迎给我留言~我会一一回复~祝你有所收获 谢谢

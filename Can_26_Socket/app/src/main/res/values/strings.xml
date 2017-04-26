@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Can_26_Socket</string>
+    <string name="xx">请输入内容发送到服务器</string>
+    <string name="send">发送</string>
+</resources>
